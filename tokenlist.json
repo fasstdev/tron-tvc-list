@@ -1,3 +1,39 @@
-[
+{
+      "address": "TFySRv9SYL5YMks6oUU4wr9qDyzUyC81Ng",
+      "symbol": "FAS",
+      "name": "Fasst",
+      "decimals": 8,
+      "logoURI": "https://fasstx.com/images/fcoin.png",
+      "homepage": "https://winklink.org/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/fasst",
+      "CoinGeckoLink": "https://www.coingecko.com/en/coins/fasst",
+      "existingMarkets": [
+          {
+              "source": "FasstX",
+              "pairs": [
+                  "FAS/USDT",
+                  "FAS/BUSD",
+              ]
+          },
+          {
+              "source": "SunSwap",
+              "pairs": [
+                  "FAS/TRX",
+              ]
+          },
+          {
+              "source": "AzBit",
+              "pairs": [
+                  "FAS/USDT"
+              ]
+          },
+          {
+              "source": "CoinsBit",
+              "pairs": [
+                  "FAS/USDT"
+              ]
+          }
+    ]
+}[
     
 ]
